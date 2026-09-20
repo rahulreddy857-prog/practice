@@ -1,3 +1,1 @@
-# practice
-Git hub practise
-what are the things to do?
+<p>This is a pracitse file</p>
