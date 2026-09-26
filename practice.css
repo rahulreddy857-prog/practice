@@ -1,3 +1,85 @@
-body {
-    background-color: lightblue;
+/* body {
+    background-color: rgb(91, 236, 1);
+}
+
+*{
+    font-family: "Times New Roman", serif;
+}
+
+div{
+    background-color: rgb(29, 0, 220);
+}
+#para1{
+    color: red;
+}
+#para2{
+    color: rgb(227, 242, 16);
+}
+.para3{
+    color: rgb(233, 2, 2);
+}
+.para4{
+    color: rgb(245, 0, 0);
+}
+button{
+    background-color: rgb(33, 249, 0);
+    color: white;
+}
+#heading1{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    justify-content: center;
+    text-transform: capitalize;
+}
+#heading2{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    justify-content: center;
+    text-transform: capitalize;
+}
+#outer{
+    font-size: 25px;
+}
+#inner{
+    font-size: 10px;
+} */
+div{
+height: 100px;
+width: 100px;
+background-color: rgb(7, 232, 22);
+border-radius: 50%;
+}
+
+div{
+    padding: 10px 10px 20px 10px;
+    background-color: rgb(18, 18, 18);
+    margin: 20px;
+    #amazon{
+        font-style: lowercase;
+        font-color: rgb(255, 255, 255);
+        text-color: rgb(221, 165, 0);
+        text-align:left
+        margin-right: 40px;
+    }
+    #search{
+        text-color: rgb(255, 255, 255);
+        text-align:right
+        margin-right: 40px
+    }
+    button{
+        background-color: rgb(227, 172, 4);
+        text-color: rgb(255, 255, 255);
+    }
+    #account{
+        text-color: rgb(255, 255, 255);
+                    margin-right: 40px;
+    }
+    #mycart{
+        text-color: rgb(255, 255, 255);
+                    margin-right: 40px;
+    }
+    #contact{
+        text-color: rgb(255, 255, 255);
+                    margin-right: 40px;
+    }
 }
